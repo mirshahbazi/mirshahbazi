@@ -25,19 +25,20 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=white)
 ![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
+![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
+![ExpressJS Badge](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat&logoColor=white)
+![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
+![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
 
 ##### Some of the technologies I have worked with
 
@@ -57,6 +58,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222)
 ![Apple](https://img.shields.io/badge/iOS-999999?style=flat&logo=apple&logoColor=FFFFFF)
+![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
 
 
 
