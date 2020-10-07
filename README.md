@@ -54,10 +54,10 @@
 <a href="https://spoti.fi/">
   <img align="left" alt="Spotify" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-
+</br>
+</br>
 <img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26"/> 
-
-<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="esencgr"  width="100" height="26">
+<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="esencgr"  width="100" height="50">
 
 </br>
 </br>
