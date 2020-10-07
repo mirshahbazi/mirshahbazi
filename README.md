@@ -56,9 +56,8 @@
 </a>
 </br>
 </br>
-<img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26"/> 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="esencgr"  width="100" height="50">
-
+<img align="left" src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26"/> 
+<img align="left" src="https://github.githubassets.com/images/mona-whisper.gif" alt="esencgr"  width="100" height="60">
 </br>
 </br>
 
