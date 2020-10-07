@@ -5,6 +5,10 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="saowaluck" /> </p>
+
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirshahbazi&layout=compact&hide=html&show_icons=true" alt="saowaluck" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" /></p>
 <h1 align="center">Hello, I'm Mohammad ali mirshahbazi 👋</h1>
 
 <p align="center">
