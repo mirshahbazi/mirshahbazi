@@ -7,21 +7,10 @@
 
 
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirshahbazi&layout=compact&hide=html&show_icons=true" alt="saowaluck" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" />
-</p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" /></p>
 
 
-<h1 align="center">Hello, I'm Mohammad ali mirshahbazi 👋</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mirshahbazi&label=Profile+Views" />
-</p>
-
-I'm the Mobile Developer in Iran, OR.
-I have serious passion for create mobile app, game and creating intuitive, dynamic user experiences,and payment solution.
-<br>
-The people who are working with me are always happy and satisfied with my personality
-because I always make them surprised by my actions.
 
 <h1 align="left">Technologies</h1>
   
