@@ -11,7 +11,16 @@
 <br>
 
 
- <h3 align="left">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+ 
+
+
+[![Cagri's github stats](https://github-readme-stats.vercel.app/api?username=mirshahbazi&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/esncgr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeWharton&langs_count=9&hide=javascript,html,css,assembly&layout=compact&theme=tokyonight)](https://github.com/esencgr/github-readme-stats) 
+
+
+
+
+<h3 align="left">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 
 <!--
 <a href="https://t.me/starkdmi">
@@ -50,9 +59,6 @@
   <img align="left" alt="Spotify" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>-->
 
-
-[![Cagri's github stats](https://github-readme-stats.vercel.app/api?username=mirshahbazi&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/esncgr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeWharton&langs_count=9&hide=javascript,html,css,assembly&layout=compact&theme=tokyonight)](https://github.com/esencgr/github-readme-stats)   
 
 
 <!--<a href="https://t.me/starkdmi">
