@@ -36,9 +36,8 @@
 ![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![ExpressJS Badge](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat&logoColor=white)
-![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
-![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
+![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=white)
+![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=white)
 
 ##### Some of the technologies I have worked with
 
