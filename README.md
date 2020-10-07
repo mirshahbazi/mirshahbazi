@@ -57,7 +57,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26"/> 
 
-<p align="left"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
+<img width="100" src="https://github.githubassets.com/images/mona-whisper.gif">
 
 </br>
 </br>
