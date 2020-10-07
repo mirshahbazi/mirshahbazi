@@ -58,10 +58,10 @@
 </br>
 
 <a href="http://mirshahbazi.ir/mirshahbazi.com/index.html">
-  <img align="left" alt="Spotify" src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26" />
+  <img align="left" alt="Spotify" src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="30" />
 </a>
 <a href="http://mirshahbazi.ir/mirshahbazi.com/index.html">
-  <img align="left" alt="Spotify"  src="https://github.githubassets.com/images/mona-whisper.gif" alt="esencgr"  width="141" height="26" />
+  <img align="left" alt="Spotify"  src="https://github.githubassets.com/images/mona-whisper.gif" alt="esencgr"  width="50" height="30" />
 </a>
 </br>
 </br>
