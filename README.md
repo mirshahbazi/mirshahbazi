@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="saowaluck" /> </p>
 
 <div align="center">
 	<img src="https://github.com/mirshahbazi/mirshahbazi/blob/main/welcome.svg" width="800" height="400">
@@ -16,7 +15,7 @@
 
 
 
-[![Kattis Badge](https://img.shields.io/badge/My%20kattis%20tr%20ranking-darkgreen?style=for-the-badge&logo=kattis)](https://open.kattis.com/countries/TUR) <img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26"/> 
+<img src="https://komarev.com/ghpvc/?username=mirshahbazi" alt="esencgr" width="141" height="26"/> 
 
 
 
